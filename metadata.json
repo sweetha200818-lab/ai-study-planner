@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Planner",
+  "description": "Personalized AI-powered study scheduling, exam countdowns, adaptive rescheduling, interactive practice quizzes, study reminders, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
