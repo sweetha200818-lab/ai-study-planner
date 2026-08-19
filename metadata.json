@@ -1,6 +1,6 @@
 {
-  "name": "AI Study Planner",
-  "description": "Personalized AI-powered study scheduling, exam countdowns, adaptive rescheduling, interactive practice quizzes, study reminders, and progress tracking.",
+  "name": "College AI Knowledge Assistant",
+  "description": "A smart, student-friendly college helpdesk and knowledge assistant for instant answers on courses, departments, exams, fees, campus facilities, and student services.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
